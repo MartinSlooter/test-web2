@@ -7,3 +7,5 @@ Dit is een test.
 ## header 2
 
 2e test
+
+## header 3 VSCode
