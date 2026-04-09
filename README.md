@@ -8,3 +8,7 @@ Dit is een test.
 
 2e test
 
+<<<<<<< HEAD
+=======
+## header 3 VSCode
+>>>>>>> branch 'master' of https://github.com/MartinSlooter/test-web2.git
